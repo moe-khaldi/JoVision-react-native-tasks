@@ -1,7 +1,7 @@
-import Task17 from './Tasks/task17';
+import Task18 from './Tasks/task18';
 
 export default function App() {
-  return <Task17 />;
+  return <Task18 />;
 ;
 }
 
